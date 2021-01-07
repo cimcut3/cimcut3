@@ -1,2 +1,1 @@
-hrghggfgh
-dsad
+console.log("hello");
